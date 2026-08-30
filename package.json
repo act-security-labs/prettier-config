@@ -1,5 +1,5 @@
 {
-  "name": "@cloud-copilot/prettier-config",
+  "name": "@actsecurity/prettier-config",
   "version": "0.1.2",
   "description": "Shared prettier config",
   "main": "dist/index.js",
@@ -11,18 +11,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cloud-copilot/prettier-config.git"
+    "url": "git+https://github.com/act-security-labs/prettier-config.git"
   },
   "keywords": [
-    "Cloud Copilot",
+    "Act Security",
     "prettier"
   ],
-  "author": "Cloud Copilot",
+  "author": "Act Security",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cloud-copilot/prettier-config/issues"
+    "url": "https://github.com/act-security-labs/prettier-config/issues"
   },
-  "homepage": "https://github.com/cloud-copilot/prettier-config#readme",
+  "homepage": "https://github.com/act-security-labs/prettier-config#readme",
   "devDependencies": {
     "typescript": "^5.7.2"
   },
